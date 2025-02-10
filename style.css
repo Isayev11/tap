@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img{
+    width: 30vw;
+    height: 30vh;
+    background-image: url(./Без\ названия\ \(8\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text{
+    width: 15vw;
+    height: 15vh;
+    background-color: rgba(0, 0, 0, 0.586);
+    color: white;
+    position: absolute;
+    right: -5vw;
+    bottom: -5vw;
+}
